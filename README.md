@@ -1,2 +1,7 @@
-# bookself-api-backend
-Dicoding final project submission kelas : belajar membuat aplikasi back-end untuk pemula
+# Bookself API Back-End
+
+Ini adalah sebuah bookself API yang berupa Back-End dari aplikasi catatan yang memiliki fungsi :
+- Create
+- Read
+- Upload
+- Delete
